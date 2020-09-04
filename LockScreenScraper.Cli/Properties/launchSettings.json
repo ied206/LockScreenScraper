@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LockScreenScraper.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "-d C:\\Joveler\\Dest"
+    }
+  }
+}
